@@ -1,0 +1,36 @@
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe.config
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.pdb
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csprojResolveAssemblyReference.cache
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Form1.resources
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Properties.Resources.resources
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csproj.GenerateResource.Cache
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.exe
+C:\Users\Szopa Mateusz\Desktop\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.pdb
+H:\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe.config
+H:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.exe
+H:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.pdb
+H:\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe
+H:\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.pdb
+H:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csprojResolveAssemblyReference.cache
+H:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Form1.resources
+H:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Properties.Resources.resources
+H:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csproj.GenerateResource.Cache
+E:\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe.config
+E:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.exe
+E:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.pdb
+E:\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe
+E:\spec\HTML\przeglądarka\przeglądarka\bin\Debug\przeglądarka.pdb
+E:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csprojResolveAssemblyReference.cache
+E:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Form1.resources
+E:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Properties.Resources.resources
+E:\spec\HTML\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe.config
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\obj\Debug\przeglądarka.exe
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\obj\Debug\przeglądarka.pdb
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\bin\Debug\przeglądarka.exe
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\bin\Debug\przeglądarka.pdb
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Form1.resources
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\obj\Debug\przeglądarka.Properties.Resources.resources
+C:\Users\mateu\Desktop\Programowanie\przeglądarka\przeglądarka\obj\Debug\przeglądarka.csproj.GenerateResource.Cache
