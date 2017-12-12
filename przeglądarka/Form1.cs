@@ -18,7 +18,7 @@ namespace przeglądarka
         {
             InitializeComponent();
         }
-
+       //Czes Mati jak  tam leci :0 
         int nr = 0;
         WebBrowser webBrowser = new WebBrowser();
 
