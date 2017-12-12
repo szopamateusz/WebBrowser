@@ -19,7 +19,7 @@ namespace przeglądarka
             InitializeComponent();
         }
 
-        int nr = 0;
+        int nr = 1;
         WebBrowser webBrowser = new WebBrowser();
 
         public void GoToSite()
