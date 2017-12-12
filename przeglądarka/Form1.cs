@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net;
 using System.IO;
-
+// zmiana programu
 namespace przeglądarka
 {
     public partial class Form1 : Form
