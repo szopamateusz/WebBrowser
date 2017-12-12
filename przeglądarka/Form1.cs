@@ -18,6 +18,7 @@ namespace przeglądarka
         {
             InitializeComponent();
         }
+		int nr2=0;
 
         int nr = 0;
         WebBrowser webBrowser = new WebBrowser();
